@@ -4,12 +4,12 @@
 **Integrantes:** ver [EQUIPO.md](EQUIPO.md)
 
 ## La pregunta que responde nuestro observatorio
-___  (el líder la completa: debe tener quién, qué se mide y contra qué se compara)
+¿Cómo se relacionan los niveles de recaudación del SRI por provincia en Ecuador con la evolución del crédito y la morosidad durante el período analizado?
 
 ## De dónde viene cada dato
 Se completa en la tarea «Dos fuentes entrando».
 
 ## Declaración de uso de IA
-___  (qué herramienta, para qué y qué verificamos nosotros)
+Durante el desarrollo del proyecto se utilizarán herramientas de inteligencia artificial como apoyo para resolver dudas, consultar conceptos, revisar código y mejorar la redacción. El equipo será responsable de revisar, comprender y justificar toda la información y el código incorporado al proyecto.
 
 ---
